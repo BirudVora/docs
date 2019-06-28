@@ -30,7 +30,7 @@ Select2 will respond to the <code>disabled</code> attribute on `<select>` elemen
     </button>
   </div>
 </div>
-
+noooooooooooooo
 <pre data-fill-from=".js-code-disabled"></pre>
 
 <script type="text/javascript" class="js-code-disabled">
